@@ -4,7 +4,6 @@ Welcome to the official GitHub repository of my **Personal Portfolio Website**.
 This project represents my **professional identity**, showcasing my skills, projects, experience, and passion for **Data Analytics, Artificial Intelligence, and Software Development**.
 
 🔗 **Live Website:** [https://yash-shirsath-website.vercel.app/](https://yash-shirsath-website.vercel.app/)
-🔗 **GitHub Repository:** [https://github.com/Yash07-gif/Yash-Shirsath-Website](https://github.com/Yash07-gif/Yash-Shirsath-Website)
 
 ---
 
